@@ -6,7 +6,7 @@ I enjoy working at the intersection of science and computation.
 - Exploring astrophysical data and simulations.  
 - Learning about statistics, machine learning, and more.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Some Technologies & Tools
 | Area | Tech / Tools |
 |------|--------------|
 | Front-end | HTML/CSS... |
@@ -14,7 +14,7 @@ I enjoy working at the intersection of science and computation.
 | Data / Science | NumPy, pandas, AstroPy, Jupyter... |
 | Others | Git, Linux... |
 
-### 📂 Projects & Work
+### 📂 Selected Projects & Work
 - **MASS_Thesis** — My master’s thesis in astrophysics (code + notebooks). 
 - **FCC_Full_Stack** — Coursework and personal builds from FreeCodeCamp.
 - **AstroView** - Python toolkit for high-precision asteroid ephemerides and orbit visualisation made for the Code/Astro workshop. 
