@@ -1,4 +1,24 @@
-## Hi there 👋
+I’m an astrophysicist with a passion for exploring the universe and building things with code.  
+I enjoy working at the intersection of science and computation.
+
+### 🔭 What I’m doing now
+- Developing full-stack web apps.  
+- Exploring astrophysical data and simulations.  
+- Learning about statistics, machine learning, and more.
+
+### 🛠️ Technologies & Tools
+| Area | Tech / Tools |
+|------|--------------|
+| Front-end | HTML/CSS... |
+| Back-end | Python... |
+| Data / Science | NumPy, pandas, AstroPy, Jupyter... |
+| Others | Git, Linux... |
+
+### 📂 Projects & Work
+- **MASS_Thesis** — My master’s thesis in astrophysics (code + notebooks). 
+- **FCC_Full_Stack** — Coursework and personal builds from FreeCodeCamp.  
+- [Link to my website](https://tcaba2.github.io)  
+
 
 <!--
 **tcaba2/tcaba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
