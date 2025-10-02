@@ -16,7 +16,8 @@ I enjoy working at the intersection of science and computation.
 
 ### 📂 Projects & Work
 - **MASS_Thesis** — My master’s thesis in astrophysics (code + notebooks). 
-- **FCC_Full_Stack** — Coursework and personal builds from FreeCodeCamp.  
+- **FCC_Full_Stack** — Coursework and personal builds from FreeCodeCamp.
+- **AstroView** - Python toolkit for high-precision asteroid ephemerides and orbit visualisation made for the Code/Astro workshop. 
 - [Link to my website](https://tcaba2.github.io)  
 
 
