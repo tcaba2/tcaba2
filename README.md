@@ -1,16 +1,16 @@
+# Hello
 I’m an astrophysicist with a passion for exploring the universe and building things with code.  
 I enjoy working at the intersection of science and computation.
 
 ### 🔭 What I’m doing now
-- Developing full-stack web apps.  
+- Learning about programming, web development, high performance computing...  
 - Exploring astrophysical data and simulations.  
-- Learning about statistics, machine learning, and more.
 
 ### 🛠️ Some Technologies & Tools
 | Area | Tech / Tools |
 |------|--------------|
 | Front-end | HTML/CSS... |
-| Back-end | Python... |
+| Back-end | Python, C++... |
 | Data / Science | NumPy, pandas, AstroPy, Jupyter... |
 | Others | Git, Linux... |
 
