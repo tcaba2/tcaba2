@@ -12,6 +12,7 @@ I enjoy working at the intersection of science and computation.
 | Front-end | HTML/CSS... |
 | Back-end | Python, C++... |
 | Data / Science | NumPy, pandas, AstroPy, Jupyter... |
+| Astro | Offline, Gammapy, ROOT... |
 | Others | Git, Linux... |
 
 ### 📂 Selected Projects & Work
